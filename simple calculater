@@ -1,0 +1,20 @@
+a=int(input())
+b=int(input())
+oprater=input("enter the symbul:")
+mach oprater:
+case"+":
+print(a+b)
+case"_":
+print(a-b)
+case"*":
+print(a*b)
+case"/":
+print(a/b)
+case"//":
+print(a//)
+case"**":
+print(a**b)
+case"%":
+print(a%b)
+case_:
+print("given valide oprater")
